@@ -1,4 +1,2 @@
-# i love proxmox
-it runs on a 14 year old laptop <br>
-i run a file server and wiki on it <br>
-runs perfectly
+# SUPPORT YOUR LOCAL FTC AND FRC ROBOTICS TEAMS
+Team member for teams 7065(FTC) and 8767(FRC)
